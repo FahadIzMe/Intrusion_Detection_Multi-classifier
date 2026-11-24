@@ -4,6 +4,8 @@ This repository contains a multiclass CICIDS2017 intrusion-detection workflow. I
 
 I have updated this repository to remove the patchwork and overengineering from the previous version, which came from my initial focus on getting it to run successfully. I am treating this version as an ongoing practice project to improve my skills by focusing on core concepts rather than fluff.
 
+Previously, instead of paying attention to the classes with low amounts of records, I had been focusing on the overall non-weighted accuracy. This time I am correcting that mistake and focusing on the smaller classes that don't have enough data. Later on, I will focus on balancing these classes better.
+
 The project used agents as instructed by our professor.
 
 
